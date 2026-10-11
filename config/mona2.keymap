@@ -25,13 +25,13 @@
         compatible = "zmk,combos";
 
         mouseclick_left {
-            bindings = <&mkp MB1>;
-            key-positions = <17 7>;
+            bindings = <&mkp LCLK>;
+            key-positions = <18 17>;
         };
 
         mouseclick_right {
             bindings = <&mkp MB2>;
-            key-positions = <7 8>;
+            key-positions = <18 19>;
         };
     };
 
