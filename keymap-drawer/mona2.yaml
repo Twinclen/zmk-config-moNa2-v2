@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - {t: B, h: '5'}
-  - {t: F7, h: '6'}
+  - {t: F7, h: '3'}
   - ;
   - N
   - M
@@ -156,7 +156,7 @@ layers:
   - Gui+Sft+LEFT ARROW
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DELETE
@@ -169,7 +169,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '4':
@@ -285,7 +285,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
